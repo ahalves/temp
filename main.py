@@ -4,7 +4,7 @@ import aiohttp
 import asyncio
 import os
 
-TOKEN = "MTM2NDY2MzUzNjk2OTcxMTYxNg.Gi0ZJb.Mu9JgQv00zvbbQ6IvR2xetPfmWKBQD9NWuV7V8"  # Replace with your bot token
+TOKEN = "token"  # Replace with your bot token
 CHANNEL_ID = 1362711826760208394  # Replace with your Discord channel ID as an integer
 
 WINDOWS_FILE = "windows.txt"
